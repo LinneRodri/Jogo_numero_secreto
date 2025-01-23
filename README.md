@@ -9,4 +9,4 @@
 </div>
 <p>Link para o jogo:</p>
 
-[link](https://vercel.com/linnerodris-projects/jogo-numero-secreto/GW5KXgzPA1CPFh7x7nnZcjqZZiaY "Jogo_do_numero-secreto").
+[link](https://lnkd.in/dfJ8miur).
