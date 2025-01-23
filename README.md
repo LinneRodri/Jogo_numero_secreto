@@ -9,4 +9,4 @@
 </div>
 <p>Link para o jogo:</p>
 
-[link](https://lnkd.in/dfJ8miur).
+[link](https://jogo-numero-secreto-gold-ten.vercel.app/).
